@@ -56,7 +56,7 @@ python train.py --phase train --task DM --model FFNet-DM-B --in_type rgb
 ```
 If the repository includes additional architectures, the target network can be changed by replacing the value of the --model argument.
 
-## 3.Test
+## 3.Evaluation
 ### 3.1Testing for JDD
 To evaluate a pretrained FFNet model on the JDD task, run:
 ```shell
